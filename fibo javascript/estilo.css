@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(169, 126, 249);
+    font-size: 24px;
+}
+.serie{
+    font-weight: 700;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(17, 17, 67);
+}
